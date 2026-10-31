@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+div {
+  text-align: center;
+  margin-top: 100px;
+}
+
+h1 {
+  color: blue;
+}
+
+p {
+  font-size: 20px;
+}
